@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "Put your own details here",
+    "project_id": "Put your own details here",
+    "storage_bucket": "Put your own details here"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "Put your own details here",
+        "android_client_info": {
+          "package_name": "com.example.chit_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "Put your own details here"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
